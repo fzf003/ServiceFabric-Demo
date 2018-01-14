@@ -1,0 +1,11 @@
+F:\fabric\Test\B2BFabricApp\ShardMessage\obj\Debug\ShardMessage.csprojResolveAssemblyReference.cache
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\ShardMessage.dll
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\ShardMessage.pdb
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\Akka.dll
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\Newtonsoft.Json.dll
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\System.Collections.Immutable.dll
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\Akka.xml
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\Newtonsoft.Json.xml
+F:\fabric\Test\B2BFabricApp\ShardMessage\bin\Debug\System.Collections.Immutable.xml
+F:\fabric\Test\B2BFabricApp\ShardMessage\obj\Debug\ShardMessage.dll
+F:\fabric\Test\B2BFabricApp\ShardMessage\obj\Debug\ShardMessage.pdb
